@@ -51,3 +51,14 @@ namespace gvanastasov
 ```
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvanastasov&theme=darcula&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github" width="100%"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvanastasov&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut&theme=darcula" width="100%"/> |
 | ------------- | ------------- |
+
+<table>
+<tr>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gvanastasov&theme=darcula&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github" width="100%"/>
+</td>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvanastasov&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut&theme=darcula" width="100%"/>
+</td>
+</tr>
+</table>
