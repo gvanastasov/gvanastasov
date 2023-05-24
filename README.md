@@ -49,12 +49,5 @@ namespace gvanastasov
     }
 }
 ```
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvanastasov&theme=darcula&count_private=true&show_icons=true&rank_icon=github" width="100%"/>
-</div>
-
-<p></p>
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvanastasov&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut&theme=darcula" width="100%"/>
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gvanastasov&theme=darcula&count_private=true&show_icons=true&rank_icon=github" width="50%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvanastasov&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut&theme=darcula" width="50%"/>
