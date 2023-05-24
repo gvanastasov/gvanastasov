@@ -32,7 +32,7 @@ namespace gvanastasov
 	    typeof(AWS),
 	    typeof(CMS),
 	    typeof(GraphQL),
-	    // todo: use reflection to get all of them...
+	    // todo: use {{ System.Reflection }} to get all of them...
         };
         
         public string GetGoals(string @for)
