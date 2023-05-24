@@ -49,4 +49,6 @@ namespace gvanastasov
     }
 }
 ```
+[![gvanastasov's stats](https://github-readme-stats.vercel.app/api?username=gvanastasov)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvanastasov&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut-vertical&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
