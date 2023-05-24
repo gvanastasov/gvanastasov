@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```csharp
+```cs
 using Github;
 
 namespace gvanastasov 
@@ -10,7 +10,7 @@ namespace gvanastasov
     {
         public struct Occupation => 
         {
-            Company: '******',
+            Company: 'Telia Company',
             Position: 'Domain Architect',
         };
         
