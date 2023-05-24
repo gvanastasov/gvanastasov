@@ -8,7 +8,7 @@ namespace gvanastasov
     [Description("Awesome")]
     public sealed class Me : Architect, ILeader, IDeveloper, INinja
     {
-        public struct Occupation => 
+        public dynamic Occupation => new
         {
             Company: "Telia Company",
             Position: "Domain Architect",
@@ -38,9 +38,12 @@ namespace gvanastasov
         public string GetGoals(string @for)
         {
             switch(@for)
-                case "personal": return "Relax and enjoy life."
-                case "work": return "Do awesome stuff and drink coffee with team."
-                default: return "Just be happy and code."
+                case "personal": 
+		    return "Relax and enjoy life.";
+                case "work": 
+		    return "Do awesome stuff and drink coffee with team.";
+                default: 
+		    return "Just be happy and code.";
         }
     }
 }
