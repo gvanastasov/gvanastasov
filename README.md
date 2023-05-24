@@ -49,7 +49,14 @@ namespace gvanastasov
     }
 }
 ```
-<table cellspacing="0" cellpadding="0">
+<table>
+<tr>
+<th align="center">
+</th>
+<th align="center">
+</th>
+</tr>
+<tr>
 <tr>
 <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvanastasov&theme=darcula&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github" width="441" />
