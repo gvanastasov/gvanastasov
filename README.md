@@ -43,6 +43,8 @@ namespace gvanastasov
 		    return "Relax and enjoy life.";
                 case "work": 
 		    return "Do awesome stuff and drink coffee with team.";
+		case "before 8am":
+		    return "Get me some coffee...";
                 default: 
 		    return "Just be happy and code.";
         }
