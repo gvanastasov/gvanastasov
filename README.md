@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```c
+```cs
 using Github;
 
 namespace gvanastasov 
