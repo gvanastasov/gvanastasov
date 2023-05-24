@@ -10,37 +10,37 @@ namespace gvanastasov
     {
         public struct Occupation => 
         {
-            Company: 'Telia Company',
-            Position: 'Domain Architect',
+            Company: "Telia Company",
+            Position: "Domain Architect",
         };
         
-        public string Level => 'expert';
-        public string Passion => 'coding';
-		public string Hacks => 'fruit';
+        public string Level => "expert";
+        public string Passion => "coding";
+	public string Hacks => "fruit";
         
         public DateTime CodingSince => DateTime.Now.AddYears(-19);
         public CoffeeType CoffeeType => CoffeeType.Any;
         
         public List<Type> Knowledge = new List<Type>
         {
-            typeof(CSharp),
-			typeof(Node),
+	    typeof(CSharp),
+	    typeof(Node),
             typeof(Javascript),
             typeof(Vuejs),
             typeof(React),
-			typeof(Flutter),
-			typeof(AWS),
-			typeof(CMS),
-			typeof(GraphQL),
-			// todo: use reflection to get all of them...
+	    typeof(Flutter),
+	    typeof(AWS),
+	    typeof(CMS),
+	    typeof(GraphQL),
+	    // todo: use reflection to get all of them...
         };
         
         public string GetGoals(string @for)
         {
             switch(@for)
-                case 'personal': return 'Relax and enjoy life.'
-                case 'work': return 'Do awesome stuff and drink coffee with team.'
-                default: return 'Just be happy and code.'
+                case "personal": return "Relax and enjoy life."
+                case "work": return "Do awesome stuff and drink coffee with team."
+                default: return "Just be happy and code."
         }
     }
 }
