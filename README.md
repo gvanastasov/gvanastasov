@@ -6,7 +6,8 @@ using Github;
 namespace gvanastasov 
 {
     [Description("Awesome")]
-    public sealed class Me : Architect, ILeader, IDeveloper, IProgrammer, INinja
+    public sealed class Me : Architect, 
+    	ILeader, IDeveloper, IProgrammer, INinja
     {
         public dynamic Occupation => new
         {
