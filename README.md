@@ -51,25 +51,6 @@ namespace gvanastasov
 ```
 <table>
 <tr>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
-</th>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-EXAMPLE TEXT
-</small>
-</p>
-</th>
-</tr>
-<tr>
-<tr>
 <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvanastasov&theme=darcula&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github" width="441" />
 </td>
