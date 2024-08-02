@@ -9,7 +9,7 @@ namespace gvanastasov
     {
         public dynamic Occupation => new
         {
-            Company: "Telia Company",
+            Company: {{ __SECRETS.CompanyName }},
             Position: "Domain Architect",
         };
         
